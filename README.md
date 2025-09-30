@@ -68,7 +68,7 @@
   <a href="www.linkedin.com/in/kevin-w-silva" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/kevinsilvaadev" target="_blank">
+  <a href="https://discord.com/1000109131694358688" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://wa.me/5543991041012?text=Ol%C3%A1%20%F0%9F%91%8B%2C%20obrigado%20por%20entrar%20em%20contato.%20Por%20favor%2C%20compartilhe%20os%20detalhes%20da%20sua%20mensagem%20e%20retornarei%20o%20mais%20r%C3%A1pido%20poss%C3%ADvel.%0A" target="_blank">
